@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: SampleJava.jar  
+ aopalliance-1.0.jar 
+ commons-logging-1.1.1.jar 
+ spring-aop-3.2.2.RELEASE.jar 
+ spring-beans-3.2.2.RELEASE.jar 
+ spring-context-3.2.2.RELEASE.jar 
+ spring-core-3.2.2.RELEASE.jar 
+ spring-expression-3.2.2.RELEASE.jar  
+ spring-web-3.2.2.RELEASE.jar 
+ spring-webmvc-3.2.2.RELEASE.jar 
+
