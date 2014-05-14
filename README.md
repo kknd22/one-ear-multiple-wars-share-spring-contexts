@@ -30,3 +30,8 @@ Task List:
             </list>
         </constructor-arg>
     </bean>
+
+	3. if use servlet 3 spring, in WebApplicationInitializer
+	use
+		sc.setInitParameter("parentContextKey", "ear.context");
+		sc.setInitParameter("locatorFactorySelector", "classpath:common-beans.xml");
